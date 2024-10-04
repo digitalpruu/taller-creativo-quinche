@@ -32,7 +32,7 @@
     transition: transform 0.5s ease;
 }
 .navHome a:hover{
-    color: #171717;
+    color: #8134AF;
 }
 .homeBorder{
     padding-left: 15px;
@@ -50,6 +50,9 @@
 @media (min-width: 770px) {
     .home-main-div{
         padding-top: 2%;
+    }
+    .main-container h1{
+        color: #8134AF;
     }
     .main-text{
         display: flex; /* Agrega flexbox para centrar elementos */

@@ -8,6 +8,12 @@
   padding-right: 0;
   align-content: center;
 }
+.quote-text-container h1 {
+  color: #8134AF;
+}
+.quote-text-container p {
+  color: #8134AF;
+}
 .quote-container {
   padding: 50px;
   padding-left: 75px;

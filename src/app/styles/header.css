@@ -31,10 +31,10 @@
     .navigation a{
         margin: 0;
         font-size: 1.3em;
-        color: #171717;
+        color: #8134AF;
     }
     .navigation a:hover{
-        border-bottom: 2px solid #171717;
+        border-bottom: 2px solid #8134AF;
     }
 
     .logo{

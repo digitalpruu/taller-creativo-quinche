@@ -29,7 +29,7 @@ const textos = {
             p1: "Taller Creativo Quinche",
             p2: slogan,
         },
-        address: "Dirección del negocio",
+        address: email,
         phone: numeroWhatsApp,
         email: email,
         facebook: "https://www.facebook.com/profile.php?id=100069534288916",
